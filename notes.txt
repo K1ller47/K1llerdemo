@@ -1,1 +1,1 @@
-This is the notes file which I created to save on my first git project. Conflicts were resolved.
+This is the notes file which I created to save on my first git project. Conflicts were resolved. Trying to make changes and upload on Main branch.
