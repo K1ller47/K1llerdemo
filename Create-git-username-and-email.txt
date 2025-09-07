@@ -1,0 +1,4 @@
+git config --global user.name "INSERT NAME HERE"
+git config --global user.email "INSERT EMAIL HERE"
+
+
