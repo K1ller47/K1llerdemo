@@ -1,0 +1,43 @@
+git switch -c "Branch-name"
+                        {Note- -"- is not necessary while creating branch name}
+                        {This command will create a new branch and will switch to it}
+                                            
+                                                OR
+
+git checkout -b "Branch-name"
+                        {Note- -"- is not necessary while creating branch name}
+                        {This command will create a new branch and will switch to it}
+
+-----------------------------------------------------------------------------------------------
+
+Commands for creating a branch without switching to it:
+
+git branch "Branch-name"
+                        {Note- -"- is not necessary while creating branch name}
+
+
+-----------------------------------------------------------------------------------------------
+
+
+*Switching to an existing branch
+
+git switch Branch-name
+
+OR
+
+git checkout Branch-name
+
+
+----------------------------------------------------------------------------------
+
+*Deleting a branch:
+
+
+git branch -d branch-name
+                        {Note: '-d' is a safe way to delete a branch, if the changes have been merged to
+                         the repository on git hub, the branch will not be deleted}
+
+git branch -D branch-name
+                        {Note: '-D' will forcefully delete the branch, whether changes were saved or not}
+
+
