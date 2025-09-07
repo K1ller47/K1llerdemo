@@ -1,1 +1,1 @@
-This is the notes file which I created to save on my first git project. I'll save git commands here:
+It is the notes file which I created to save on my first git project. I'll save git commands here: So I have now already updated the main branch with 'Project-K' branch. Now here I am to make new changes to a specific file in specific line to create a conflict while pulling these changes to main. Created a new branch with this exact file name and making changes to it without updating main to create a conflict.
